@@ -34,3 +34,4 @@ npm run dev
 ## ! ÖNEMLİ !
 
 .env dosyasına VITE_API_KEY değişkenine kendi API anahtarınızı eklemeniz gerekiyor. Aksi halde proje çalışmaz.
+https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb bu siteye kaydolup API anahtarınızı oluşturabilirsiniz.
