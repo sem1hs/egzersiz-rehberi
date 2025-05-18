@@ -25,7 +25,7 @@ Kullanıcıların vücut bölgesine ve egzersiz adına göre filtreleme yaparak 
 Projeyi klonlayın:
 
 ```bash
-git clone https://github.com/kullaniciadi/egzersiz-rehberi.git
+git clone https://github.com/sem1hs/egzersiz-rehberi
 cd egzersiz-rehberi
 npm install
 npm run dev
